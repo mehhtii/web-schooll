@@ -1,0 +1,17 @@
+.f-size-normal{
+    font-size: 15px;
+    font-weight: normal;
+}
+.green-custom{
+    color: #00B16A;
+}
+.pointer{
+    cursor: pointer;
+}
+.bg-custom{
+    background-color: #00B16A !important;
+}
+
+.trnstion{
+    transition: all ease-in 1s;
+}
